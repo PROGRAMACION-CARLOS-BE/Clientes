@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Api\\ClientesPeto.Api.csproj": {}
+    "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Api\\ClientesPeto.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Api\\ClientesPeto.Api.csproj": {
+    "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Api\\ClientesPeto.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Api\\ClientesPeto.Api.csproj",
+        "projectUniqueName": "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Api\\ClientesPeto.Api.csproj",
         "projectName": "ClientesPeto.Api",
-        "projectPath": "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Api\\ClientesPeto.Api.csproj",
+        "projectPath": "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Api\\ClientesPeto.Api.csproj",
         "packagesPath": "C:\\Users\\carlos.be\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Api\\obj\\",
+        "outputPath": "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlos.be\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Core\\ClientesPeto.Core.csproj": {
-                "projectPath": "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Core\\ClientesPeto.Core.csproj"
+              "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Core\\ClientesPeto.Core.csproj": {
+                "projectPath": "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Core\\ClientesPeto.Core.csproj"
               },
-              "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Infrastructure\\ClientesPeto.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Infrastructure\\ClientesPeto.Infrastructure.csproj"
+              "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Infrastructure\\ClientesPeto.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Infrastructure\\ClientesPeto.Infrastructure.csproj"
               }
             }
           }
@@ -72,7 +72,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -84,18 +85,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Core\\ClientesPeto.Core.csproj": {
+    "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Core\\ClientesPeto.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Core\\ClientesPeto.Core.csproj",
+        "projectUniqueName": "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Core\\ClientesPeto.Core.csproj",
         "projectName": "ClientesPeto.Core",
-        "projectPath": "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Core\\ClientesPeto.Core.csproj",
+        "projectPath": "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Core\\ClientesPeto.Core.csproj",
         "packagesPath": "C:\\Users\\carlos.be\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Core\\obj\\",
+        "outputPath": "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlos.be\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -135,7 +136,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -144,18 +146,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Infrastructure\\ClientesPeto.Infrastructure.csproj": {
+    "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Infrastructure\\ClientesPeto.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Infrastructure\\ClientesPeto.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Infrastructure\\ClientesPeto.Infrastructure.csproj",
         "projectName": "ClientesPeto.Infrastructure",
-        "projectPath": "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Infrastructure\\ClientesPeto.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Infrastructure\\ClientesPeto.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\carlos.be\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\carlos.be\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -172,8 +174,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Core\\ClientesPeto.Core.csproj": {
-                "projectPath": "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Core\\ClientesPeto.Core.csproj"
+              "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Core\\ClientesPeto.Core.csproj": {
+                "projectPath": "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Core\\ClientesPeto.Core.csproj"
               }
             }
           }
@@ -213,7 +215,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -222,7 +225,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

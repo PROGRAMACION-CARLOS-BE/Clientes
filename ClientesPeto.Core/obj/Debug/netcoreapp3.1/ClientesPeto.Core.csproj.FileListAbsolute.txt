@@ -21,3 +21,16 @@ C:\Users\carlos.be\Documents\Documentos\Proyectos\ClientesPeto.Api\ClientesPeto.
 C:\Users\carlos.be\Documents\Documentos\Proyectos\ClientesPeto.Api\ClientesPeto.Core\bin\Debug\netcoreapp3.1\ClientesPeto.Core.runtimeconfig.json
 C:\Users\carlos.be\Documents\Documentos\Proyectos\ClientesPeto.Api\ClientesPeto.Core\bin\Debug\netcoreapp3.1\ClientesPeto.Core.runtimeconfig.dev.json
 C:\Users\carlos.be\Documents\Documentos\Proyectos\ClientesPeto.Api\ClientesPeto.Core\obj\Debug\netcoreapp3.1\ClientesPeto.Core.genruntimeconfig.cache
+C:\Users\carlos.be\Documents\GitHub\Clientes\ClientesPeto.Core\bin\Debug\netcoreapp3.1\ClientesPeto.Core.deps.json
+C:\Users\carlos.be\Documents\GitHub\Clientes\ClientesPeto.Core\bin\Debug\netcoreapp3.1\ClientesPeto.Core.runtimeconfig.json
+C:\Users\carlos.be\Documents\GitHub\Clientes\ClientesPeto.Core\bin\Debug\netcoreapp3.1\ClientesPeto.Core.runtimeconfig.dev.json
+C:\Users\carlos.be\Documents\GitHub\Clientes\ClientesPeto.Core\bin\Debug\netcoreapp3.1\ClientesPeto.Core.dll
+C:\Users\carlos.be\Documents\GitHub\Clientes\ClientesPeto.Core\bin\Debug\netcoreapp3.1\ClientesPeto.Core.pdb
+C:\Users\carlos.be\Documents\GitHub\Clientes\ClientesPeto.Core\obj\Debug\netcoreapp3.1\ClientesPeto.Core.csproj.AssemblyReference.cache
+C:\Users\carlos.be\Documents\GitHub\Clientes\ClientesPeto.Core\obj\Debug\netcoreapp3.1\ClientesPeto.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.be\Documents\GitHub\Clientes\ClientesPeto.Core\obj\Debug\netcoreapp3.1\ClientesPeto.Core.AssemblyInfoInputs.cache
+C:\Users\carlos.be\Documents\GitHub\Clientes\ClientesPeto.Core\obj\Debug\netcoreapp3.1\ClientesPeto.Core.AssemblyInfo.cs
+C:\Users\carlos.be\Documents\GitHub\Clientes\ClientesPeto.Core\obj\Debug\netcoreapp3.1\ClientesPeto.Core.csproj.CoreCompileInputs.cache
+C:\Users\carlos.be\Documents\GitHub\Clientes\ClientesPeto.Core\obj\Debug\netcoreapp3.1\ClientesPeto.Core.dll
+C:\Users\carlos.be\Documents\GitHub\Clientes\ClientesPeto.Core\obj\Debug\netcoreapp3.1\ClientesPeto.Core.pdb
+C:\Users\carlos.be\Documents\GitHub\Clientes\ClientesPeto.Core\obj\Debug\netcoreapp3.1\ClientesPeto.Core.genruntimeconfig.cache

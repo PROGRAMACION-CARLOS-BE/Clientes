@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "isglv5SxbT1PGSMCNwZjh5x7L39sz14A9vgCj0DVZcKQIMbNAHSj+vtu+bAQHnsLlRYkVZl3Fu2JINFfPbmThw==",
+  "dgSpecHash": "v6vUFd7/cjxHivNRh7qmJWCsfa4r8Q3JqFnJSk27DEW1oJ6LYMC0yZU7Z9w8iB+hImOVhfKlJpAAHWT0YJrpFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Core\\ClientesPeto.Core.csproj",
+  "projectFilePath": "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Core\\ClientesPeto.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlos.be\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\carlos.be\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

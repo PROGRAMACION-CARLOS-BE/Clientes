@@ -28,18 +28,19 @@ namespace ClientesPeto.Api.Controllers
             this._mapper = mapper;
         }
         /// <summary>
-        /// Obtiene todos los registros de clientes en la Suc. Tizimin
+        /// Obtiene todos los registros de clientes que no se han enviado a Gema en la Suc. Tizimin
         /// </summary>
         /// <returns>Lista de objetos</returns>
-        //[HttpGet]
-        //[ProducesResponseType((int)HttpStatusCode.OK, Type = typeof(CatCli))]
-        //public IActionResult GetAll()
-        //{
-        //    var entity = _repository.GetAll();
-        //    var entityDTO = _mapper.Map<IEnumerable<CatCli>, IEnumerable<CatCliResponse>>((IEnumerable<CatCli>)entity);
+        [HttpGet]
+        [Route("ClientesNoEnviados")]
+        [ProducesResponseType((int)HttpStatusCode.OK, Type = typeof(CatCli))]
+        public IActionResult GetAll()
+        {
+            var entity = _repository.GetAll();
+            //var entityDTO = _mapper.Map<IEnumerable<CatCli>, IEnumerable<CatCliResponse>>((IEnumerable<CatCli>)entity);
 
-        //    return Ok(entity);
-        //}
+            return Ok(entity);
+        }
 
         /// <summary>
         /// Obtiene todos los registros de clientes en la Suc. Tizimin mostrando solo CVECLI, NOMBRE Y DIRECCION 

@@ -10,7 +10,7 @@ namespace ClientesPeto.Core.Interfaces
 {
    public interface ICatCliRepository
     {
-        object GetAll();
+        IEnumerable<CatCliFilter> GetAll();
         Task<CatCli> GetById(int id);
         object GetByIdCiu(int id);
         //Task Add(CatCli entity);

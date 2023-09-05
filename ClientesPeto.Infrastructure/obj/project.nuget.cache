@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KhSfqpLNM2IpxFz542fHCddCghrlplVdNh9FvokMirj+6asuDRCZLAXxSedsRpVFhTtbxydOMfK28Of0GF3gAw==",
+  "dgSpecHash": "yfS5PAi+WGsoUTFQueIOyKUfD3WMwDV8N8Ylci1CHD13LSXEBdluKYZgnBxdhahFfQ0Gv/KamFzOspMNgAUugw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\carlos.be\\Documents\\Documentos\\Proyectos\\ClientesPeto.Api\\ClientesPeto.Infrastructure\\ClientesPeto.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\carlos.be\\Documents\\GitHub\\Clientes\\ClientesPeto.Infrastructure\\ClientesPeto.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\carlos.be\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\carlos.be\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

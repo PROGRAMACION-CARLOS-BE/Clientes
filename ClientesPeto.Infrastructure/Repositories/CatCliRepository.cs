@@ -36,25 +36,28 @@ namespace ClientesPeto.Infrastructure.Repositories
             return result;
         }
 
-        public object GetAll()
-        {
-            throw new NotImplementedException();
-        }
-
         //public object GetAll()
         //{
-        //    var catcli = _context.CatCli;
-        //    var catenviado = _context.ClientesEnviadosGM;
-
-        //    var query = from e in catcli
-        //                where !catenviado.Any(d => d.CveCliente == e.CVECLI)
-        //                select new CatCliFilter
-        //                {
-        //                   NOMCLI,
-        //                };
-
-        //    return query;
+        //    throw new NotImplementedException();
         //}
+
+        public IEnumerable<CatCliFilter> GetAll()
+        {
+            var catcli = _context.CatCli;
+            var catenviado = _context.ClientesEnviadosGM;
+            var catclifilter = new CatCliFilter();
+
+            var query = from e in catcli
+                        where !catenviado.Any(d => d.CveCliente == e.CVECLI)
+                        select new CatCliFilter
+                        {
+                            CVECLI = e.CVECLI,
+                            NOMCLI = e.NOMCLI,
+                            DIRCLI = e.DIRCLI,
+                        };
+
+            return query;
+        }
 
         //public Task<CatCli> GetAll()
         //{

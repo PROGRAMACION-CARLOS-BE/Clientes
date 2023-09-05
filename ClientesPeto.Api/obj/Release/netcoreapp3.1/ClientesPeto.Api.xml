@@ -4,6 +4,12 @@
         <name>ClientesPeto.Api</name>
     </assembly>
     <members>
+        <member name="M:ClientesPeto.Api.Controllers.CatCliController.GetAll">
+            <summary>
+            Obtiene todos los registros de clientes que no se han enviado a Gema en la Suc. Tizimin
+            </summary>
+            <returns>Lista de objetos</returns>
+        </member>
         <member name="M:ClientesPeto.Api.Controllers.CatCliController.GetByFilter">
             <summary>
             Obtiene todos los registros de clientes en la Suc. Tizimin mostrando solo CVECLI, NOMBRE Y DIRECCION 
