@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ClientesPeto.Api</name>
+    </assembly>
+    <members>
+        <member name="M:ClientesPeto.Api.Controllers.CatCliController.GetByFilter">
+            <summary>
+            Obtiene todos los registros de clientes en la Suc. Tizimin mostrando solo CVECLI, NOMBRE Y DIRECCION 
+            </summary>
+            <returns>Lista de objetos</returns>
+        </member>
+        <member name="M:ClientesPeto.Api.Controllers.CatCliController.DocumentsGetByCveCli(System.Int32)">
+            <summary>
+            Obtiene los documentos del cliente mediante su CVECLI en la Suc. Tizimin mostrando solo su CVECLI, DOCUMENTO Y NOMBRE DEL DOCUMENTO
+            </summary>
+            <returns>Lista de objetos</returns>
+        </member>
+        <member name="M:ClientesPeto.Api.Controllers.CatCliController.DocumentsGetByCveCliCiu(System.Int32)">
+            <summary>
+            Obtiene un registro del cliente mediante su CVECLI en la Suc. Tizimin mostrando la ciudad a la que pertenece el cliente.
+            </summary>
+            <param name="id"></param>
+            <returns>Objeto</returns>
+        </member>
+    </members>
+</doc>
